@@ -47,6 +47,8 @@ exponential family distributions. At the moment, you can simulate from:
 -   “Negative Binomial”
 -   “Poisson”
 
+Other distributions will be added over time:
+
 After selecting a family of interest, select a sample size and pick
 parameters to simulate random data. A density plot and histogram will
 appear in the mail panel along with a table of summary statistics.
