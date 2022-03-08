@@ -8,14 +8,7 @@
 #
 
 
-library(shiny)
-library(bslib)
-library(MASS)
-library(statmod)
-library(invgamma)
-library(dplyr)
-library(plotly)
-library(gt)
+
 my_theme <- bs_theme(
     bg = "#202123", 
     fg = "#B8BCC2", 
